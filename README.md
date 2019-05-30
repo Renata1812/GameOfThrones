@@ -1,5 +1,5 @@
 # Game Of Thrones repositório
 
-![./sansa.png](Sansa Stark)
+![./sansa.jpg](Sansa Stark)
 
 Sansa, Rainha do Norte
